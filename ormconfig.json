@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "ep-little-term-a4b3qgv3-pooler.us-east-1.aws.neon.tech",
+    "port": 5432,
+    "username": "default",
+    "password": "U1o8DhSAOWsY",
+    "database": "verceldb",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
